@@ -75,10 +75,15 @@ Conformidade com a LGPD
 
 A Liveable se diferencia das plataformas tradicionais por oferecer:
 
+
 ✅ Menos burocracia
+
 ✅ Maior flexibilidade
+
 ✅ Vistoria digital integrada
+
 ✅ Transparência nos processos
+
 ✅ Segurança e praticidade
 
 📈 Futuras Melhorias
